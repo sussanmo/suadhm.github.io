@@ -385,6 +385,7 @@ h1 {
   display: flex;
   gap: 1rem;
   margin: 0;
+  padding: 0;
   flex-wrap: wrap;
   align-items: center;
 }
